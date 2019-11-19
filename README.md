@@ -2,5 +2,3 @@
 
 TODO
 - Add Progressive Enhancement
-- Build in Speakers Page
-- Build Schedule Page
